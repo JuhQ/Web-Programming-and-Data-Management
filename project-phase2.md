@@ -19,6 +19,8 @@ Requirements:
 - Navigation must use React Router for the routing.
 - Implement backend API calls to fetch and send data.
   - For example form submissions, image uploads, image comments, blog posts etc
+- Plan and design your own database structure, minimum 5 tables, with mininum of one (1) join table (interlink entity) (either one-to-many or many-to-many)
+  - Design the database structure using draw.io and include screenshot of the structure
 - Have fun!
 
 The project will be done in the second period of the course.
