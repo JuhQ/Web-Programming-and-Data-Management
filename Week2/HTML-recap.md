@@ -67,6 +67,7 @@
 
 - Some characters like <, >, &, and “ are used in HTML syntax.
 - To include the special characters or entities you use character references or UTF codes.
+- https://www.w3schools.com/html/html_entities.asp
 
 ## 10. What's in the head? Metadata in HTML
 
