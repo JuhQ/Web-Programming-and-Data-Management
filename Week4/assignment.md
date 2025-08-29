@@ -48,3 +48,4 @@ action="https://media2.edu.metropolia.fi/test/form-submission/" method="post"
 2. Create report.md file with:
    - Screenshots of mobile and desktop views
    - Screenshot of w3c validation results
+   - How to add images to markdown file: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
