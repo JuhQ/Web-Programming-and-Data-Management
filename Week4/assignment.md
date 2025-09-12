@@ -36,10 +36,16 @@ Create a job application form using HTML and CSS. The form should be responsive 
 
 ## Form Submission
 
-Use this as your form target:
+Use either this as your form target:
 
 ```html
 action="https://media2.edu.metropolia.fi/test/form-submission/" method="post"
+```
+
+or this:
+
+```html
+action="https://postman-echo.com/post" method="post"
 ```
 
 ## Submission
