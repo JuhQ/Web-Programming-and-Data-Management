@@ -61,26 +61,31 @@
 - [Getting started, Components, JSX and Props](Week7/react-start.md)
 - [State management](Week7/react-state.md)
 - [Routing, Views and Navigation](Week7/react-routing.md) (self-study)
-- Finalize frontend project using HTML and CSS
 
 ---
 
-#### Week 8 - Project Work Period 1
-
-- **Project work**: Finalize Period 1 project deliverables
-- Mid-term presentation session
-
----
-
-## Period 2: Backend Development and Full-Stack Integration (Weeks 9-16)
-
-#### Week 9 - Server-Side Foundations
+#### Week 8 - Server-Side Foundations
 
 - [HTTP request - response](Week9/http-request-response.md)
 - [Server side programming, Restful API, Node.js, NPM](Week9/server-side-programming.md)
 - [Express - intro](Week9/express.md)
 - [Create database](Week9/database.md) (only the database creation part)
 - **Project work**: Start project phase 2
+- Finalize frontend project using HTML and CSS
+
+---
+
+## Period 2: Backend Development and Full-Stack Integration (Weeks 9-16)
+
+### Notes:
+
+- We are rescheduling the beginning of Period 2.
+- Period 2 will have programming exams
+
+#### Week 9 - Project Work Period 1 presentations
+
+- **Project work**: Finalize Period 1 project deliverables
+- **NOTE** Mid-term presentation session moved to this week, Week 9
 
 ---
 
