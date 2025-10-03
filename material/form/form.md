@@ -1451,6 +1451,7 @@ The form does not contain the `action` or `method` attributes, let's add them so
 - [https://media2.edu.metropolia.fi/test/form-submission/](https://https://media2.edu.metropolia.fi/test/form-submission/) this example url needs the trailing slash in order to work.
 - Make sure to navigate to the test url before submission, as the https has a self-signed certificate.
 - Most important! For this url to work, you must be in Metropolia wifi or use the VPN.
+- You can also use https://postman-echo.com/post for testing the form submission
 
 Now open the form in browser and click submit. Some of the fields are required, which means that you actually need to fill in the form to be able to submit it.
 
