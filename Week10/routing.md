@@ -239,7 +239,7 @@ const listAllCats = () => {
 };
 
 const findCatById = (id) => {
-  return catItems.find((item) => item.cat_id == id);
+  return catItems.find((item) => item.cat_id === id);
 };
 
 const addCat = (cat) => {
