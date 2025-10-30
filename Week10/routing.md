@@ -263,9 +263,8 @@ export { listAllCats, findCatById, addCat };
 
 ## Assignment
 
-1. Create a new branch `Assignment2`
-2. Create a new folder `src` in your project folder and move your `app.js` file there.
-3. To make the express app easier to test, create `src/index.js` file and import `app.js` from the `src` folder:
+1. Create a new folder `src` in your project folder and move your `app.js` file there.
+2. To make the express app easier to test, create `src/index.js` file and import `app.js` from the `src` folder:
 
    ```javascript
    import app from "./app.js";
@@ -278,24 +277,24 @@ export { listAllCats, findCatById, addCat };
    });
    ```
 
-4. Remove the above code from the `app.js` file and add the following code to the end of the `app.js` file:
+3. Remove the above code from the `app.js` file and add the following code to the end of the `app.js` file:
    ```javascript
    export default app;
    ```
-5. Update scripts in `package.json` to point `src/index.js`.
-6. Create a new folder `api` in your `src` folder
-7. Create a new folder `routes` in your `api` folder
-8. Create a new folder `controllers` in your `api` folder
-9. Create a new folder `models` in your `api` folder
-10. Based on the examples above create an Express project with the following routes:
+4. Update scripts in `package.json` to point `src/index.js`.
+5. Create a new folder `api` in your `src` folder
+6. Create a new folder `routes` in your `api` folder
+7. Create a new folder `controllers` in your `api` folder
+8. Create a new folder `models` in your `api` folder
+9. Based on the examples above create an Express project with the following routes:
     - `GET /api/v1/cat` - returns all cats
     - `GET /api/v1/cat/:id` - returns one cat by id
     - `POST /api/v1/cat` - adds a new cat
     - `PUT /api/v1/cat/:id` - return hard coded json response: `{message: 'Cat item updated.'}`
     - `DELETE /api/v1/cat/:id` - return hard coded json response: `{message: 'Cat item deleted.'}`
-11. Test the endpoints in [Postman](https://www.postman.com/downloads/). Get cats, add a new cat, then get cats again to
+10. Test the endpoints in [Postman](https://www.postman.com/downloads/). Get cats, add a new cat, then get cats again to
     see if the new cat is added.
-12. Use the above examples to create routes for users. Create similar dummy data:
+11. Use the above examples to create routes for users. Create similar dummy data:
 
     ```javascript
     const userItems = [
@@ -311,11 +310,11 @@ export { listAllCats, findCatById, addCat };
     ];
     ```
 
-13. Add the following endpoints:
-14. `GET /api/v1/user` - returns all users
-15. `GET /api/v1/user/:id` - returns one user by id
-16. `POST /api/v1/user` - adds a new user
-17. `PUT /api/v1/user/:id` - return hard coded json response: `{message: 'User item updated.'}`
-18. `DELETE /api/v1/user/:id` - return hard coded json response: `{message: 'User item deleted.'}`
-19. Commit and push your branch changes to the remote repository.
-20. Merge the `Assignment2` branch to the `main` branch and push the changes to the remote repository.
+12. Add the following endpoints:
+13. `GET /api/v1/user` - returns all users
+14. `GET /api/v1/user/:id` - returns one user by id
+15. `POST /api/v1/user` - adds a new user
+16. `PUT /api/v1/user/:id` - return hard coded json response: `{message: 'User item updated.'}`
+17. `DELETE /api/v1/user/:id` - return hard coded json response: `{message: 'User item deleted.'}`
+18. Commit and push your branch changes to the remote repository.
+
