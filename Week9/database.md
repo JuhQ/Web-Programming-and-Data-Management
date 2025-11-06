@@ -1,6 +1,5 @@
 # Database connection in Express
 
-1. Create a new branch `Assignment5` from `main`.
 2. Import the [example database](https://gist.github.com/ilkkamtk/b03f47baea5fb83c06141038160cefaa) to your MySQL database on Metropolia's server.
    1. Create a database in https://amme.metropolia.fi/mysql/. Login with your Metropolia username and password. When creating the database **DO NOT USE THE SAME PASSWORD AS YOUR METROPOLIA ACCOUNT.**
    2. Open https://users.metropolia.fi/phpMyAdmin/
