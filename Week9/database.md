@@ -8,7 +8,7 @@
    5. Copy the content of the `example-database.sql` file and paste it into the SQL query window and press `Go`
 3. Install [dotenv](https://github.com/motdotla/dotenv#readme) to load environment variables from a `.env` file into `process.env`.
 
-   - `.env` file is used to store sensitive data like database credentials and should not be committed to version control (remember to add to `.gitignore`).
+   - `.env` file is used to store sensitive data like database credentials and should not be committed to version control (remember to add to `.gitignore`). ([GitHub .gitignore list](https://github.com/github/gitignore))
    - Add `.env` file to the project root folder and add the following content to it:
 
    ```env
