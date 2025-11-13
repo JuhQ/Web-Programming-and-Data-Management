@@ -138,7 +138,7 @@ export default Example;
 
 ## Lab assignment 1
 
-1. Continue last exercise. Create a new branch 'hooks' with git.
+1. Continue last react exercise. Create a new branch 'hooks' with git.
 2. Delete the hard coded `mediaArray` from `Home`component.
    - The data for the media items will be fetched from a static JSON file using
      the [fetchData](https://gist.github.com/ilkkamtk/cb8230539e10f103c36613c338851a5c) function and the `useEffect`
