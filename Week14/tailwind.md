@@ -17,7 +17,7 @@
 
 - [This is why](https://www.youtube.com/watch?v=t-eR4hA7obg)
 
-## Lab assignment 1
+## Instructions, not homework
 
 1. Continue last exercise. Create a new branch 'tailwind' with git.
 2. Rename `index.css` to `index-old.css`, then create new `index.css`
@@ -58,7 +58,7 @@
 8. Add functions for deleting and modifying media items to `apiHooks.js`: `deleteMedia` and `modifyMedia`. Use the same URL as in the `MediaAPI` for deleting and modifying media items.
 9. For now, you can use `useNavigate` hook to refresh the page after deleting or modifying the media item.
 
-## Lab assignment 3
+## Material continued
 
 1. Continue in the same branch.
 2. Now we add likes to the media items. The user can like a media item only once.
@@ -70,12 +70,3 @@
 8. Add event listener to the button. If the user has liked the media item, the button should show that the user has liked the media item. If the user hasn't liked the media item, the button should show that the user can like the media item.
 9. Add a function to the button that posts a like to the media item if the user hasn't liked the media item. If the user has liked the media item, the function should delete the like.
 10. Add the `Like` component to the `SingleView` component. The button should be active only when the user is logged in. The number of likes should be shown always.
-
-## Submit
-
-1. Run `npm build` or `npm run build`
-2. Move build folder to your public_html
-3. Test your app: `http://users.metropolia.fi/~username/tailwind`
-4. Modify README.md. Change the link in `Open [X](X) to view it in the browser.` to point to the above link.
-5. git add, commit & push to remote repository
-6. Submit the link to correct branch of your repository to Oma
