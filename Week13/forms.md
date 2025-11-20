@@ -14,7 +14,7 @@ Study [useState with forms](https://www.youtube.com/watch?v=R7T5GQLxRD4)
 1. Continue last exercise. Create a new branch 'forms' with git.
 2. Create files:
    - `Login.jsx` and `Logout.jsx` to `views`
-   - `formHooks.js` to `hooks`
+   - `formHooks.jsx` to `hooks`
    - `LoginForm.jsx` and `RegisterForm.jsx` to `components`
 3. Login.jsx will hold LoginForm and RegisterForm components
 
