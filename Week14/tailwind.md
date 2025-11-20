@@ -19,6 +19,8 @@
 
 ## Instructions, not homework
 
+Not mandatory instructions. Do these if you want to learn tailwind css.
+
 1. Continue last exercise. Create a new branch 'tailwind' with git.
 2. Rename `index.css` to `index-old.css`, then create new `index.css`
 3. [Install Tailwind CSS to your project.](https://tailwindcss.com/docs/guides/vite#react)
@@ -38,7 +40,7 @@
    - [Default spacing](https://tailwindcss.com/docs/customizing-spacing#default-spacing-scale)
    - [Font size](https://tailwindcss.com/docs/font-size)
 
-## Lab assignment 2
+## Material continued
 
 1. Continue in the same branch.
 2. In this exercise we'll add two buttons to `MediaRow` component: `Modify` and `Delete` which are shown only when the user is logged in. At this point the buttons don't do anything but console.log something.
