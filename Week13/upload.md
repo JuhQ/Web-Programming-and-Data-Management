@@ -6,7 +6,7 @@
   the server in a POST request.
 - Uses the same format as a form with `enctype="multipart/form-data"`
 
-## Lab assignment 1
+## Lab assignment 1 (optional)
 
 1. Continue last exercise. Create a new branch 'upload' with git.
 2. Add `VITE_UPLOAD_SERVER=https://media2.edu.metropolia.fi/upload-api/api/v1` to `.env.local` file. This is the file server where we will upload the files.
@@ -121,8 +121,5 @@
 ## Submit
 
 1. Run `npm build` or `npm run build`
-2. Move build folder to your public_html
-3. Test your app: `http://users.metropolia.fi/~username/upload`
-4. Modify README.md. Change the link in `Open [X](X) to view it in the browser.` to point to the above link.
-5. git add, commit & push to remote repository
-6. Submit the link to correct branch of your repository to Oma
+2. git add, commit & push to remote repository
+3. Submit the link to correct branch of your repository to Oma
