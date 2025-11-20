@@ -141,7 +141,7 @@ Study [useState with forms](https://www.youtube.com/watch?v=R7T5GQLxRD4)
 
 9. Add `handleInputChange` and `handleSubmit` to the `<form>` and `<input>` components. Which one goes where?
 10. Test the form. Check the console. What is happening?
-11. In APiHooks.js create a new hook `useAuthentication`. Create `postLogin` function to `useAuthentication`:
+11. In ApiHooks.js create a new hook `useAuthentication`. Create `postLogin` function to `useAuthentication`:
     ```javascript
     const postLogin = async (inputs) => {
       const fetchOptions = {
@@ -183,8 +183,5 @@ Study [useState with forms](https://www.youtube.com/watch?v=R7T5GQLxRD4)
 ## Submit
 
 1. Run `npm build` or `npm run build`
-2. Move build folder to your public_html
-3. Test your app: `http://users.metropolia.fi/~username/forms`
-4. Modify README.md. Change the link in `Open [X](X) to view it in the browser.` to point to the above link.
-5. git add, commit & push to remote repository
-6. Submit the link to correct branch of your repository to Oma
+2. git add, commit & push to remote repository
+3. Submit the link to correct branch of your repository to Oma
