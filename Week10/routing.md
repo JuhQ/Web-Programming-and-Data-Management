@@ -292,7 +292,7 @@ export { listAllCats, findCatById, addCat };
     - `POST /api/v1/cat` - adds a new cat
     - `PUT /api/v1/cat/:id` - return hard coded json response: `{message: 'Cat item updated.'}`
     - `DELETE /api/v1/cat/:id` - return hard coded json response: `{message: 'Cat item deleted.'}`
-10. Test the endpoints in [Postman](https://www.postman.com/downloads/). Get cats, add a new cat, then get cats again to
+10. Test the endpoints in [Postman](https://www.postman.com/downloads/) or [VSCode REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) extension. Get cats, add a new cat, then get cats again to
     see if the new cat is added.
 11. Use the above examples to create routes for users. Create similar dummy data:
 
