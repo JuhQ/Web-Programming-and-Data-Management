@@ -138,7 +138,7 @@ const Profile = () => {
 export default Profile;
 ```
 
-## Lab assignment 1
+## Lab assignment 1 (Optional)
 
 1. Continue last exercise. Create a new branch 'context' with git.
 2. In this exercise we will use context to share the currently logged-in user between components. We will use the
